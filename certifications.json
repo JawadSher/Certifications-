@@ -11,7 +11,33 @@
       "category": "Web Development",
       "featured": true,
       "description": "A comprehensive 9-course professional specialization engineered by Meta experts to build job-ready frontend software engineering skills. Covers everything from core semantic markup and UI/UX architecture to professional React frameworks and technical interview preparation.",
-      "skills": ["React.js", "JavaScript ES6", "HTML5 & CSS3", "UI/UX Design Principles", "Version Control (Git)", "Advanced Front-End Architecture"]
+      "skills": [
+        "React.js",
+        "JavaScript ES6",
+        "HTML5 & CSS3",
+        "UI/UX Design Principles",
+        "Version Control (Git)",
+        "Advanced Front-End Architecture"
+      ]
+    },
+    {
+      "id": "ibm-introduction-to-artificial-intelligence",
+      "title": "Introduction to Artificial Intelligence (AI)",
+      "issuer": "Coursera via IBM",
+      "issueDate": "2026-07-05",
+      "credentialId": "AXLGRDBVPKHH",
+      "credentialUrl": "https://coursera.org/verify/AXLGRDBVPKHH",
+      "image": "images/introduction-to-artificial-intelligence-ibm.png",
+      "category": "Artificial Intelligence",
+      "featured": true,
+      "description": "An introductory course authorized by IBM and delivered via Coursera, covering core artificial intelligence concepts, machine learning workflows, deep learning applications, neural networks, and the ethical considerations surrounding AI deployment.",
+      "skills": [
+        "Artificial Intelligence (AI)",
+        "Machine Learning Basics",
+        "Deep Learning",
+        "Neural Networks",
+        "AI Ethics & Governance"
+      ]
     },
     {
       "id": "react-and-redux-kg-coding",
@@ -24,7 +50,13 @@
       "category": "Web Development",
       "featured": true,
       "description": "A specialization certificate confirming execution and application of frontend architectural patterns. Focuses on component lifecycle models, state orchestration with Context API, advanced global store management with Redux, and modern declarative rendering techniques.",
-      "skills": ["React.js", "Redux State Management", "Global Store Architecture", "Component Orchestration", "Front-End Development"]
+      "skills": [
+        "React.js",
+        "Redux State Management",
+        "Global Store Architecture",
+        "Component Orchestration",
+        "Front-End Development"
+      ]
     },
     {
       "id": "javascript-intermediate-hackerrank",
@@ -37,7 +69,14 @@
       "category": "Programming",
       "featured": true,
       "description": "A skill certification verifying intermediate-level proficiency in JavaScript. Validates deep understanding of topics such as design patterns, memory management, concurrency model, data structures, and advanced asynchronous workflows.",
-      "skills": ["JavaScript ES6+", "Asynchronous Programming", "Design Patterns", "Data Structures", "Problem Solving", "Memory Management"]
+      "skills": [
+        "JavaScript ES6+",
+        "Asynchronous Programming",
+        "Design Patterns",
+        "Data Structures",
+        "Problem Solving",
+        "Memory Management"
+      ]
     },
     {
       "id": "cplusplus-essentials-1",
@@ -50,7 +89,14 @@
       "category": "Programming",
       "featured": true,
       "description": "Covers the fundamentals of C++ programming, focusing on basic data types, control flow structures, functions, and introductory object-oriented concepts. It prepares learners to understand core development logic and computer programming architectures.",
-      "skills": ["C++ Programming", "Data Types", "Control Structures", "Functions", "Basic Algorithms", "Problem Solving"]
+      "skills": [
+        "C++ Programming",
+        "Data Types",
+        "Control Structures",
+        "Functions",
+        "Basic Algorithms",
+        "Problem Solving"
+      ]
     },
     {
       "id": "python-basic-hackerrank",
@@ -63,7 +109,13 @@
       "category": "Programming",
       "featured": false,
       "description": "A skill certification validating a foundational understanding of Python programming concepts. Tests core technical mechanics including basic data types, control flow structures, functional patterns, object principles, and fundamental standard library methods.",
-      "skills": ["Python Programming", "Basic Algorithms", "Data Structures", "Object-Oriented Programming Foundations", "Scripting Fundamentals"]
+      "skills": [
+        "Python Programming",
+        "Basic Algorithms",
+        "Data Structures",
+        "Object-Oriented Programming Foundations",
+        "Scripting Fundamentals"
+      ]
     },
     {
       "id": "tryhackme-web-fundamentals",
@@ -76,7 +128,13 @@
       "category": "Cybersecurity",
       "featured": false,
       "description": "A focused technical track analyzing vulnerabilities inherent to web applications and application layers. Covers core OWASP Top 10 vulnerabilities, server-side request manipulation, cross-site scripting workflows, and database injection architectures.",
-      "skills": ["Web Application Security", "OWASP Top 10", "Cross-Site Scripting (XSS)", "SQL Injection", "Server-Side Vulnerabilities"]
+      "skills": [
+        "Web Application Security",
+        "OWASP Top 10",
+        "Cross-Site Scripting (XSS)",
+        "SQL Injection",
+        "Server-Side Vulnerabilities"
+      ]
     },
     {
       "id": "great-learning-vulnerability-management",
@@ -89,7 +147,13 @@
       "category": "Cybersecurity",
       "featured": false,
       "description": "Focuses on the lifecycle of discovering, analyzing, prioritizing, and mitigating configuration defects and asset exposures within modern enterprises. Includes infrastructure scanning models, risk scoring matrices, and structured patch management architectures.",
-      "skills": ["Vulnerability Management", "Risk Assessment", "Asset Identification", "Remediation Planning", "Infrastructure Scanning"]
+      "skills": [
+        "Vulnerability Management",
+        "Risk Assessment",
+        "Asset Identification",
+        "Remediation Planning",
+        "Infrastructure Scanning"
+      ]
     },
     {
       "id": "isc2-cc-online-training",
@@ -102,7 +166,14 @@
       "category": "Cybersecurity",
       "featured": false,
       "description": "Official foundational training program covering the core domains required for entry-level cybersecurity professionals. Focuses on security principles, business continuity, disaster recovery, access control, network security, and security operations.",
-      "skills": ["Security Principles", "Access Control", "Network Security", "Security Operations", "Incident Response", "Business Continuity"]
+      "skills": [
+        "Security Principles",
+        "Access Control",
+        "Network Security",
+        "Security Operations",
+        "Incident Response",
+        "Business Continuity"
+      ]
     },
     {
       "id": "great-learning-threat-hunting",
@@ -115,7 +186,13 @@
       "category": "Cybersecurity",
       "featured": false,
       "description": "Provides a comprehensive look into proactively identifying and isolating advanced persistent threats that elude traditional security solutions. Teaches analysis frameworks, event logging systems, behavioral monitoring metrics, and defensive network posture adjustments.",
-      "skills": ["Threat Hunting", "Log Analysis", "Indicators of Compromise (IoCs)", "Advanced Persistent Threats (APTs)", "Incident Detection"]
+      "skills": [
+        "Threat Hunting",
+        "Log Analysis",
+        "Indicators of Compromise (IoCs)",
+        "Advanced Persistent Threats (APTs)",
+        "Incident Detection"
+      ]
     },
     {
       "id": "ethical-hacking-essentials",
@@ -128,7 +205,13 @@
       "category": "Cybersecurity",
       "featured": true,
       "description": "An foundational cybersecurity program designed by EC-Council introduces core concepts of information security and ethical hacking. The curriculum emphasizes fundamental threats, system vulnerabilities, and baseline defensive security measures.",
-      "skills": ["Information Security", "Cyber Threats", "Vulnerability Identification", "Network Defensive Practices", "Security Fundamentals"]
+      "skills": [
+        "Information Security",
+        "Cyber Threats",
+        "Vulnerability Identification",
+        "Network Defensive Practices",
+        "Security Fundamentals"
+      ]
     },
     {
       "id": "tryhackme-red-teaming",
@@ -141,7 +224,13 @@
       "category": "Cybersecurity",
       "featured": false,
       "description": "An advanced technical track focused on offensive operations and adversary simulation architectures. Covers evasion tactics, active directory structures, post-exploitation controls, and custom payload deployment.",
-      "skills": ["Adversary Simulation", "Active Directory Security", "Evasion Techniques", "Red Team Operations", "Post-Exploitation"]
+      "skills": [
+        "Adversary Simulation",
+        "Active Directory Security",
+        "Evasion Techniques",
+        "Red Team Operations",
+        "Post-Exploitation"
+      ]
     },
     {
       "id": "tryhackme-jr-pentester",
@@ -154,7 +243,13 @@
       "category": "Cybersecurity",
       "featured": false,
       "description": "A technical learning path assessing real-world offensive security capabilities. Validates core competencies across security methodologies, network scanning frameworks, web application vulnerabilities, active privilege escalation, and custom payload execution.",
-      "skills": ["Offensive Security", "Network Assessment", "Web Application Vulnerabilities", "Privilege Escalation", "Security Methodologies"]
+      "skills": [
+        "Offensive Security",
+        "Network Assessment",
+        "Web Application Vulnerabilities",
+        "Privilege Escalation",
+        "Security Methodologies"
+      ]
     },
     {
       "id": "tryhackme-offensive-pentesting",
@@ -167,7 +262,13 @@
       "category": "Cybersecurity",
       "featured": false,
       "description": "A rigorous offensive path focused on complex system exploitation and real-world compromise scenarios. Emphasizes advanced buffer overflows, active privilege escalation, network scanning matrices, and structured exploitation strategies.",
-      "skills": ["System Exploitation", "Buffer Overflows", "Advanced Privilege Escalation", "Offensive Security", "Exploitation Methodologies"]
+      "skills": [
+        "System Exploitation",
+        "Buffer Overflows",
+        "Advanced Privilege Escalation",
+        "Offensive Security",
+        "Exploitation Methodologies"
+      ]
     },
     {
       "id": "tryhackme-comptia-pentest-plus",
@@ -180,7 +281,13 @@
       "category": "Cybersecurity",
       "featured": false,
       "description": "An intermediate capabilities path mapping closely to CompTIA PenTest+ objective domains. Covers advanced vulnerability management, infrastructure exploitation vectors, code analysis audits, and defensive remediation reports.",
-      "skills": ["CompTIA PenTest+", "Vulnerability Management", "Infrastructure Exploitation", "Code Auditing", "Security Remediation Reporting"]
+      "skills": [
+        "CompTIA PenTest+",
+        "Vulnerability Management",
+        "Infrastructure Exploitation",
+        "Code Auditing",
+        "Security Remediation Reporting"
+      ]
     },
     {
       "id": "ethical-hacking-and-penetration-testing",
@@ -193,7 +300,13 @@
       "category": "Cybersecurity",
       "featured": false,
       "description": "A comprehensive introductory practical course outlining the fundamentals of penetration testing methodologies. It covers network scanning, vulnerability assessment, system exploitation techniques, and standard ethical hacking practices.",
-      "skills": ["Penetration Testing", "Ethical Hacking", "Network Security", "Vulnerability Assessment", "Exploitation Techniques"]
+      "skills": [
+        "Penetration Testing",
+        "Ethical Hacking",
+        "Network Security",
+        "Vulnerability Assessment",
+        "Exploitation Techniques"
+      ]
     },
     {
       "id": "tryhackme-complete-beginner",
@@ -206,7 +319,13 @@
       "category": "Cybersecurity",
       "featured": false,
       "description": "A fundamental learning framework providing hands-on entry into security concepts. Guides students through basic Linux/Windows shell environments, operational networking setups, introductory web security vectors, and core foundational hacking techniques.",
-      "skills": ["Linux & Windows Shell", "Networking Foundations", "Web Security Basics", "Introductory Pentesting", "Information Security Principles"]
+      "skills": [
+        "Linux & Windows Shell",
+        "Networking Foundations",
+        "Web Security Basics",
+        "Introductory Pentesting",
+        "Information Security Principles"
+      ]
     }
   ]
 }
