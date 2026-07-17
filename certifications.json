@@ -40,6 +40,25 @@
       ]
     },
     {
+      "id": "ai-and-career-empowerment",
+      "title": "AI and Career Empowerment",
+      "issuer": "University of Maryland Robert H. Smith School of Business",
+      "issueDate": "2026-07-17",
+      "credentialId": null,
+      "credentialUrl": null,
+      "image": "images/ai-and-career-empowerment.png",
+      "category": "Artificial Intelligence",
+      "featured": false,
+      "description": "A non-credit course focused on leveraging artificial intelligence for career growth and professional success. Covers practical AI applications, productivity enhancement, responsible AI usage, and strategies for adapting to the evolving technology-driven workplace.",
+      "skills": [
+        "Artificial Intelligence (AI)",
+        "AI Productivity",
+        "Career Development",
+        "Professional Development",
+        "Responsible AI"
+      ]
+    },
+    {
       "id": "react-and-redux-kg-coding",
       "title": "React and Redux Certification Test - Youtube Course",
       "issuer": "KG Coding",
